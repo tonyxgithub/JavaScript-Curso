@@ -1,0 +1,2 @@
+alert("String, integer, and boolean");
+console.log("So far I´ve understood the primitive data types used in JavaScript and the more complex data types such as null and undefined. I´ve also learned that some functions or methods run only by the navigator, and others are run by JavaScript.");
